@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAudoiPlay</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+</resources>
