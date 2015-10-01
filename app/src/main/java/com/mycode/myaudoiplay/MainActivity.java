@@ -19,8 +19,8 @@ public class MainActivity extends Activity {
     private final Handler handler = new Handler();
 
     @Override
-    public void onCreate(Bundle icicle) {
-        super.onCreate(icicle);
+    public void onCreate(Bundle bundle) {
+        super.onCreate(bundle);
         setContentView(R.layout.activity_main);
         initViews();
 
