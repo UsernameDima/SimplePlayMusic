@@ -17,5 +17,6 @@
     <string name="loop">Loop</string>
     <string name="Back">Back</string>
     <string name="forward">Forw</string>
-    <string name="Info">Info</string>
+    <string name="backward">Back</string>
+    <string name="info">Info</string>
 </resources>
